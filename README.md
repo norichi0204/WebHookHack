@@ -1,2 +1,2 @@
 # WebHookHack
-DiscrodのWebhookを使ったSupammer
+DiscrodのWebhookを使ったspammer
